@@ -1,2 +1,2 @@
 # testrepo
-exploring 
+exploring  the git
